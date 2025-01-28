@@ -68,3 +68,7 @@ console.log(suma);
 
 var paresMayores = pares.filter(p => p > 6);
 console.log(paresMayores)
+
+// length
+
+console.log(frutas.length);
