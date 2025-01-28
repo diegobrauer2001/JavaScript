@@ -23,7 +23,7 @@ const numeros = [ 1,2,3];
 
 // push()
 
-numeros.push(4);
+numeros.push(4,5);
 
 console.log(numeros);
 
