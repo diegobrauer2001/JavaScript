@@ -27,3 +27,5 @@ function capitalizar(str){
 
 // código de prueba
 console.log(capitalizar("hola mundo")) // "Hola Mundo"
+console.log(capitalizar("make it real")) // "Make It Real"
+console.log(capitalizar("")) // ""
