@@ -15,7 +15,7 @@ function max(unArray){
 }
 
 function maximoPorFila(unaMatriz){
-    let maximos = [];
+    let maximos = []; // Guarda todos los maximos de cada fila 
 
     for(let i = 0 ; i < unaMatriz.length ; i ++){
             maximos.push(max(unaMatriz[i]));
